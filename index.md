@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+##`Personal Data`
+- Name: Marcelo
+- Age: 17 years
+- From: Cape Verde
+- E-mail: jsdevmarcelo@gmail.com
+- Phone number: +238 9561414
