@@ -12,3 +12,8 @@ github_username:  MarceloJSCesar # DO NOT include the @ character, or else the b
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "Welcome to my programming study planning"
+date: 2021-03-31
+---
