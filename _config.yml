@@ -1,18 +1,3 @@
-title: Welcome to my study planning
-author: Marcelo Cesar
-email: jsdevmarcelo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  In this page I'm going to display all my study planning to me follow the right was as possible, 
-  to don't go to wrong way. Like that my study will be better, and focused !1
-
-# social links
-twitter_username: MarceloJpfut3 # DO NOT include the @ character, or else the build will fail!
-github_username:  MarceloJSCesar # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
-
 ---
 title: "Welcome to my programming study planning"
 date: 2021-03-31
