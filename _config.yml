@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Welcome to my study planning
+author: Marcelo Cesar
+email: jsdevmarcelo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In this page I'm going to display all my study planning to me follow the right was as possible, 
+  to don't go to wrong way. Like that my study will be better, and focused !1
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: MarceloJpfut3 # DO NOT include the @ character, or else the build will fail!
+github_username:  MarceloJSCesar # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
